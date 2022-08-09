@@ -1,0 +1,20 @@
+{
+  "name": "react-app-credit",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^17.0.0",
+    "react-dom": "^17.0.2",
+    "react-router-dom": "^6.3.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^2.0.0",
+    "vite": "^3.0.0"
+  }
+}
